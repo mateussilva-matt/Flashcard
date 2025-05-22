@@ -1,0 +1,22 @@
+/</div>
+</article>
+<article class="cartao">
+<div class="cartao__conteudo">
+    <h3>História</h3>
+    <div class="cartao__conteudo__pergunta">
+       <p>Quais eram os principais países aliados na Segunda Guerra Mundial? </p>
+    </div>
+    <div class="cartao__conteudo__resposta">
+       <p>Os principais países aliados na Segunda Guerra Mundial eram o Reino Unido, a França, a União Soviética, os Estados Unidos e a China.</p>
+    </div>
+</article>
+    <article class="cartao">
+        <div class="cartao__conteudo">
+            <h3>História</h3>
+            <div class="cartao__conteudo__pergunta">
+               <p>Quem foi Vlad, o Empalador?</p>
+            </div>
+            <div class="cartao__conteudo__resposta">
+               <p>Vlad III, comumente conhecido como Vlad, o Empalador ou Vlad Drácula, foi Voivoda da Valáquia três vezes entre 1448 e sua morte em 1476/77. Ele é frequentemente considerado um dos governantes mais importantes da história da Valáquia e um herói nacional da Romênia.</p>
+            </div>
+</article>/
